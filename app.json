@@ -13,27 +13,27 @@
     "env": {
         "APP_ID": {
             "description": "ايبي ايدي",
-            "value": "9514755",
+            "value": "26641701",
             "required": true
         },
         "APP_HASH": {
             "description": "ايبي هاش",
-            "value": "40e7041d06ea7b6ee1cf39b3188b3452",
+            "value": "5a0a7208eb91f3623258c4f4bb3abf0a",
             "required": true
         },
         "TERMUX": {
             "description": "كود تيرمكس",
-            "value": "",
+            "value": "1ApWapzMBu4YcdmfW3nzFvDfrJ8xjCsAZd8gSrhEzsu7bj2K4dSPxXDWqrJhJuGeJxY0sQjpwRDHus-Bv1NhPoaZjYSfwuAVPkWVP3FlsZ82ocAlnT8ZqtsqlEl9N2wSY4BeZH8K6lFbDc2jCz7nyqN3NICzqDLJuRZp3jFW_yWU4OORQwWOWaF3TGfWVrI9HEOBmRo-vEoMVH2VFiIPX1oGbkixxcWeo7pbDWVSYCBIyxLgbKjiH4_0QP11LipierQ7oJlfdQ9cUffgnj8MSEAE8T8aB31Kq_1JtGVZMHIJS56qQvwW5Q3To9Vzv4xxLyAtxraHZIxBSx0qw4yXyYC6cBF_1mOw=",
             "required": true
         },
         "TOKEN": {
             "description": "توكن البوت",
-            "value": "",
+            "value": "5920496145:AAHa6yfqQgdQoO5DGmV4ZxGta5Ihpc7hSn0",
             "required": true
         },
         "BOT_USERNAME": {
             "description": "يوزر البوت بدون ـ@ـ",
-            "value": "",
+            "value": "iqthon9181766bot",
             "required": true
         }
     }
